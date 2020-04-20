@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--/* code from https://github.com/mikhail-cct/CA1-In-class-Demo*/
+-->
+<tvshow>
+  <section name="Comedy">
+    <entree>
+      <item>Blue Mountain State</item>
+      <release>2011</release>
+      <end_date>present</end_date>
+    </entree>
+    <entree>
+      <item>Oz</item>
+      <release>2009</release>
+    </entree>
+    <entree>
+      <item>Rick and Morty</item>
+      <release>2013</release>
+    </entree>
+  </section>
+  <section name="Action">
+    <entree>
+      <item>Game of thrones </item>
+      <release>2011</release>
+      <end_date>present</end_date>
+    </entree>
+    <entree>
+      <item>Spartacus</item>
+      <release>2011</release>
+      <end_date>present</end_date>
+    </entree>
+  </section>
+  <section name="Thriller">
+    <entree>
+      <item>House of Cards</item>
+      <release>2011</release>
+      <end_date>present</end_date>
+    </entree>
+  </section>
+</tvshow>
